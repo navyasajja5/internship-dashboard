@@ -1,0 +1,87 @@
+{
+    "students": {
+        "": {
+            "name": "saketh",
+            "password": "Navya@123",
+            "wallet": 1100,
+            "status": "Approved",
+            "task_submitted": true,
+            "task_approved": true,
+            "stipend_paid": true,
+            "certificate_generated": true,
+            "offer_letter": true,
+            "resume_text": "Sajja Navya\nnavyasajja5@gmail.com  |  +91 7993832138  | Perambalur\nCAREER OBJECTIVE\nMotivated and enthusiastic B.Tech Computer Science and Engineering student with strong problem-solving skills as well as keen\ninterest in software development. Seeking opportunities to apply academic knowledge to real-world projects and gain practical\nexperience in the IT industry.\nEDUCATION\nB.Tech, Computer Science & Engineering 2024 - 2028\nDhanalakshmi Srinivasan University\nB.Tech, Computer Science & Engineering 2024 - 2028\nDhanalakshmi Srinivasan University\nCGPA: 9.00/10\nSenior Secondary (XII), Andhra Pradesh State Board\nScience2022\nRavindra Bharathi Junior College, Nellore\nPercentage: 97.00%\nSecondary (X), ANDHRA PRADESH STATE 2020\nRavindra Bharathi School, Nellore\nPercentage: 88.00%\nTRAININGS / CERTIFICATIONS\nProgramming In Python With AI\nOct 2025 - Nov 2025\nInternshala Trainings, Virtual\nSuccessfully completed a 6 weeks online certified training on Programming in Python with AI. The training consisted of\nIntroduction to Python, Using Variables in Python, Basics of Programming in Python, Principles of Object-oriented\nProgramming (OOP), Connecting to SQLite Database, Developing a GUI with PyQT, Application of Python in Various\nDisciplines, The Final Project, and AI in Programming with Python modules. I scored 98% in the final assessment and\nwas a top performer in the training.\nSKILLS\n\u2022\u00a0 Web development \u2022\u00a0 Database Management System (DBMS) \u2022\u00a0 MySQL\n\u2022\u00a0 MongoDB \u2022\u00a0 Java \u2022\u00a0 C#\n\u2022\u00a0 C Programming \u2022\u00a0 Python \u2022\u00a0 HTML\n\u2022\u00a0 CSS \u2022\u00a0 JavaScript \u2022\u00a0 Eclipse (IDE)\nPage - 1/1\n",
+            "internship_id": "python_0"
+        },
+        "navyasajja5@gmail.com": {
+            "name": "navya",
+            "password": "Navya@123",
+            "wallet": 1100,
+            "status": "Approved",
+            "task_submitted": true,
+            "task_approved": true,
+            "stipend_paid": true,
+            "certificate_generated": true,
+            "offer_letter": true,
+            "resume_text": "Sajja Navya\nnavyasajja5@gmail.com  |  +91 7993832138  | Perambalur\nCAREER OBJECTIVE\nMotivated and enthusiastic B.Tech Computer Science and Engineering student with strong problem-solving skills as well as keen\ninterest in software development. Seeking opportunities to apply academic knowledge to real-world projects and gain practical\nexperience in the IT industry.\nEDUCATION\nB.Tech, Computer Science & Engineering 2024 - 2028\nDhanalakshmi Srinivasan University\nB.Tech, Computer Science & Engineering 2024 - 2028\nDhanalakshmi Srinivasan University\nCGPA: 9.00/10\nSenior Secondary (XII), Andhra Pradesh State Board\nScience2022\nRavindra Bharathi Junior College, Nellore\nPercentage: 97.00%\nSecondary (X), ANDHRA PRADESH STATE 2020\nRavindra Bharathi School, Nellore\nPercentage: 88.00%\nTRAININGS / CERTIFICATIONS\nProgramming In Python With AI\nOct 2025 - Nov 2025\nInternshala Trainings, Virtual\nSuccessfully completed a 6 weeks online certified training on Programming in Python with AI. The training consisted of\nIntroduction to Python, Using Variables in Python, Basics of Programming in Python, Principles of Object-oriented\nProgramming (OOP), Connecting to SQLite Database, Developing a GUI with PyQT, Application of Python in Various\nDisciplines, The Final Project, and AI in Programming with Python modules. I scored 98% in the final assessment and\nwas a top performer in the training.\nSKILLS\n\u2022\u00a0 Web development \u2022\u00a0 Database Management System (DBMS) \u2022\u00a0 MySQL\n\u2022\u00a0 MongoDB \u2022\u00a0 Java \u2022\u00a0 C#\n\u2022\u00a0 C Programming \u2022\u00a0 Python \u2022\u00a0 HTML\n\u2022\u00a0 CSS \u2022\u00a0 JavaScript \u2022\u00a0 Eclipse (IDE)\nPage - 1/1\n",
+            "internship_id": "python_0"
+        }
+    },
+    "companies": {
+        "tulanshikanala@gmail.com": {
+            "name": "sindhu",
+            "password": "Navya@123",
+            "wallet": 0,
+            "status": "Not Applied",
+            "task_submitted": false,
+            "task_approved": false,
+            "stipend_paid": false,
+            "certificate_generated": false,
+            "offer_letter": false,
+            "resume_text": ""
+        },
+        "": {
+            "name": "",
+            "password": "Navya@123",
+            "wallet": 0,
+            "status": "Not Applied",
+            "task_submitted": false,
+            "task_approved": false,
+            "stipend_paid": false,
+            "certificate_generated": false,
+            "offer_letter": false,
+            "resume_text": ""
+        }
+    },
+    "government": {},
+    "internships": {
+        "python_0": {
+            "name": "python",
+            "internship_description": "project using python",
+            "task_description": "simple task of python",
+            "required_skills": [
+                "python"
+            ],
+            "stipend": 1000,
+            "reward": 100,
+            "company": "tulanshikanala@gmail.com"
+        }
+    },
+    "governments": {
+        "": {
+            "name": "",
+            "password": "Navya@123",
+            "wallet": 0,
+            "status": "Not Applied",
+            "internship_id": null,
+            "resume_text": "",
+            "match_percent": 0,
+            "task_solution": "",
+            "task_submitted": false,
+            "task_approved": false,
+            "stipend_paid": false,
+            "certificate_generated": false,
+            "offer_letter": false
+        }
+    }
+}
