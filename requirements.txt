@@ -1,5 +1,0 @@
-streamlit
-pandas
-numpy
-matploit.lib
-plotly
